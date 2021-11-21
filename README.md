@@ -28,6 +28,13 @@ Re-Calculated Results:
 
 **- How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
 
+Original            |  Re-Calculated
+:-------------------------:|:-------------------------:
+![School_Summary_Effect1](https://user-images.githubusercontent.com/92615504/142748601-c96558ba-0881-4e57-9968-92f1cb43ec56.png)|  ![School_Summary2](https://user-images.githubusercontent.com/92615504/142748603-34d7ec12-5b93-4655-87ed-0729bc943294.png)
+
+From taking a look at these two analysis, it can be determine that Thomas High School was not only in the top 5 but it was in the top 2 schools. But, when the NaN Re-Calculation took place it can be seen that it took a hard hit and it was in the bottom 8 schools. 
+
+
 **- How does replacing the ninth-grade scores affect the following:**
 
 **Math and reading scores by grade**
