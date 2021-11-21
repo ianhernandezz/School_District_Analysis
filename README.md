@@ -51,7 +51,7 @@ Original Results            |  Re-calculared Results
 :-------------------------:|:-------------------------:
 <img width="878" alt="Screen Shot 2021-11-20 at 4 42 05 PM" src="https://user-images.githubusercontent.com/92615504/142741751-79d67239-dc5c-4cf6-98ae-d7aba5eb0c6b.png">|  <img width="857" alt="Screen Shot 2021-11-20 at 4 40 34 PM" src="https://user-images.githubusercontent.com/92615504/142741762-49f4b936-3d2f-443e-8bd1-b31360bd0f93.png">
 
-
+Overall, the spending for Thomas High School did not make drastic changes. 
 
 **Scores by School Size**
 
@@ -59,11 +59,15 @@ Original Size            |  Re-Calculated Size
 :-------------------------:|:-------------------------:
 <img width="792" alt="Screen Shot 2021-11-20 at 4 55 46 PM" src="https://user-images.githubusercontent.com/92615504/142742120-da88161f-350e-41be-bd6f-ae152cd08009.png">|  <img width="792" alt="Screen Shot 2021-11-20 at 4 54 50 PM" src="https://user-images.githubusercontent.com/92615504/142742129-00bd3e39-15fc-4faf-a2b4-44d75a9f19d1.png">
 
+Just like School Spending, it did not have a huge impact on this. 
+
 **Scores by School Type**
 
 Original Type Results            |  Re-Calculated Type Results
 :-------------------------:|:-------------------------:
 <img width="737" alt="Screen Shot 2021-11-20 at 5 05 44 PM" src="https://user-images.githubusercontent.com/92615504/142742196-1ea50296-77e4-46e0-a327-b7c6483ee662.png">|  <img width="742" alt="Screen Shot 2021-11-20 at 5 05 16 PM" src="https://user-images.githubusercontent.com/92615504/142742197-0f4d2ee6-ea22-442d-af35-2340dd0482da.png">
+
+There was no change to the type of school that it is. 
 
 
 3. **Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.**
