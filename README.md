@@ -1,7 +1,8 @@
 # School_District_Analysis
 
 **1. Overview of the school district analysis: Explain the purpose of this analysis.**
-hello
+
+
 
 **2. Results: Using bulleted lists and images of DataFrames as support, address the following questions.**
 
